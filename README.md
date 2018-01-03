@@ -86,7 +86,7 @@ $ git push origin master:gh-pages
 
 This will make your `index.html` file available at the URL:
 
-`http://<username>.github.io/HelloCodeSchoolProject/`
+`https://cristytarantino.github.io/HelloCodeSchoolProject/`
 
 # Another Answer
 
